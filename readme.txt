@@ -1,5 +1,10 @@
 write one line
 write two lin
 new branch
-lear
-&n
+
+
+
+
+and
+learn
+>>>>>>> feature1
