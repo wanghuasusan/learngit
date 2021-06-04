@@ -1,3 +1,5 @@
+
+B
 write one line
 write two lin
 new branch
@@ -6,5 +8,5 @@ new branch
 
 
 and
-learn
+new word learn
 >>>>>>> feature1
